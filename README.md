@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hude97
-- 👀 I’m interested in Coding, Investing, Reading, Photography, Exercising, Traveling, Geography, Gaming, Music
+- 👀 I’m interested in Coding, Investing, Reading, Photography, Exercising, Traveling, Geography, Gaming, Music, Astronomy
 - 🌱 I’m currently learning Python
 
 <!---
